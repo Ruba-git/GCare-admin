@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ganesanadmin@gmail.com",
+      "password_hash": "ee7f69ac33b4144a3f59a88149b4242d:4964d494656a62b6e48eaab53af4fda3a5d7d8473c17df11ea5a8fd73db94c89",
+      "full_name": "Super Admin",
+      "role": "admin",
+      "service_location": "",
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "email": "rubadharshan09@gmail.com",
+      "password_hash": "452b2c14be62c3980255b2d99db01197:8c5e283be730949f6bdcdf47f99c569c8dc032331ac5697fd1bcd89bfb8fe710",
+      "role": "service_member",
+      "full_name": "dhar",
+      "service_location": "allampatti,virudhunagar",
+      "status": "approved"
+    }
+  ],
+  "nextId": 3
+}
